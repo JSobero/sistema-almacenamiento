@@ -62,13 +62,13 @@ public class RealizarBusqueda extends javax.swing.JPanel {
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null},
-                {null, null, null, null, null}
+                {null, null, null, null, null, null},
+                {null, null, null, null, null, null},
+                {null, null, null, null, null, null},
+                {null, null, null, null, null, null}
             },
             new String [] {
-                "ID Inventario", "Producto", "Cantidad", "Fecha", "Operación"
+                "ID Inventario", "Producto", "Cantidad", "Fecha", "Operación", "Usuario"
             }
         ));
         jScrollPane1.setViewportView(jTable1);

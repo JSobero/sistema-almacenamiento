@@ -358,6 +358,7 @@ public class DashboardAdmin extends javax.swing.JFrame {
 
     private void jButton13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton13ActionPerformed
         // TODO add your handling code here:
+        dispose();
     }//GEN-LAST:event_jButton13ActionPerformed
 
     /**
